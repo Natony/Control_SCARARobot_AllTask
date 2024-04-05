@@ -1,0 +1,10 @@
+rtGetInf.o: D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rtGetInf.c \
+ D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rtwtypes.h \
+ D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rtGetInf.h \
+ D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rt_nonfinite.h
+
+D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rtwtypes.h:
+
+D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rtGetInf.h:
+
+D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rt_nonfinite.h:

@@ -1,0 +1,4 @@
+Constrained Instances: 'de-1', 'robot'
+Constraint Name: Coincident6
+Error Details: Constraint is not supported. The constraint has been exported as unknown constraint.
+---------------------------------------------------------------------------------

@@ -1,0 +1,8 @@
+rt_lu_real.o: \
+ D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rt_lu_real.c \
+ D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rt_matrixlib.h \
+ D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rtwtypes.h
+
+D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rt_matrixlib.h:
+
+D:/TT_ROBOT/Task3_Robot/New/RobotSample_ert_rtw/rtwtypes.h:
